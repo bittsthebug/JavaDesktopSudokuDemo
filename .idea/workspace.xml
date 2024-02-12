@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf565525-fb17-4be5-b598-98fdc81a86b3" name="Changes" comment="declared sudoku package with Main.java class and problemdomain package with SudokuGame.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/Coordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf565525-fb17-4be5-b598-98fdc81a86b3" name="Changes" comment="Made constructors and getter methods in SudokuGame.java and also in a new class called Coordinates.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/IStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/Coordinates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/SudokuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sudoku/problemdomain/SudokuGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -76,7 +77,7 @@
       <workItem from="1707554989992" duration="258000" />
       <workItem from="1707555319361" duration="1440000" />
       <workItem from="1707574991528" duration="747000" />
-      <workItem from="1707749631287" duration="909000" />
+      <workItem from="1707749631287" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="declared sudoku package with Main.java class and problemdomain package with SudokuGame.java class">
       <option name="closed" value="true" />
@@ -86,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707575557931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Made constructors and getter methods in SudokuGame.java and also in a new class called Coordinates.java">
+      <option name="closed" value="true" />
+      <created>1707750630685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707750630685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="declared sudoku package with Main.java class and problemdomain package with SudokuGame.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="declared sudoku package with Main.java class and problemdomain package with SudokuGame.java class" />
+    <MESSAGE value="Made constructors and getter methods in SudokuGame.java and also in a new class called Coordinates.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made constructors and getter methods in SudokuGame.java and also in a new class called Coordinates.java" />
   </component>
 </project>
