@@ -101,6 +101,25 @@ Make a commit and commit message without opening an editor
 
 ## branching
 
+List of Branches 
+
+```
+git brach
+```
+
+Create a new Branch 
+```
+git branch branch-name
+```
+
+Checkout the branch
+
+```
+git checkout dev
+```
+
+
+
 ## remotes 
 
 ## tashing
