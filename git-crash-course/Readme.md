@@ -122,9 +122,28 @@ git checkout dev
 
 ## remotes 
 
-## tashing
+We can add remote but often you will just ad dremote via upstream when adding a branch 
+
+```sh
+git branch add ...
+git branch -u origin new-feature
+```
+
+## stashing
+```
+git stash list
+git stash 
+git stash save my-name
+git stash apply 
+git stash pop
+```
 
 ## merging
+
+```
+git checkout dev
+git merge main/master
+```
 
 ## Add 
  when we want to stage changes that will be included in the commit , we can use the `.` to add all possible files.
